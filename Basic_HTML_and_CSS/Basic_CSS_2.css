@@ -1,0 +1,14 @@
+p {
+	color: snow;
+	background-color: black;
+	font-size: 10;
+	text-align: center;
+	
+   }
+   
+   
+h1 {
+	color: #333;
+	font-size: 3em;
+	text-shadow: 4px 4px 8px rgba(0,0,0,0.4);
+}
